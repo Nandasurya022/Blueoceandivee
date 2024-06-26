@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170514878823",
+    "project_id": "blueoceandive-1ecd3",
+    "storage_bucket": "blueoceandive-1ecd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170514878823:android:06efc79dda0d6c6d6edfc2",
+        "android_client_info": {
+          "package_name": "com.example.blueoceandive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATnRN9dQ3RfC5OYDCNxUKY6yoorxqJxRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
